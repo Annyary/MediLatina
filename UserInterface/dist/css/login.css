@@ -1,0 +1,32 @@
+﻿.contenido {
+    align-items: center;
+    height: 100vh;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+}
+
+.box {
+    border-radius: 5px;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    padding: 20px 10px 10px 10px;
+    margin-bottom: 10px;
+}
+
+.links{
+    padding: 0;
+}
+
+p {
+    margin: 0;
+}
+
+.form-control {
+    width: 300px;
+}
+
+.footer {
+    margin-bottom: 10px;
+}
